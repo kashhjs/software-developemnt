@@ -1,0 +1,5 @@
+Target software development
+-software nama crystal 
+-dapat digunakan untuk menganalisa well flow and dynamic
+-dapat menganalisa faktor skin dalam reservoir
+-dapat mengetahui nilai porosity dan permeability batuan
